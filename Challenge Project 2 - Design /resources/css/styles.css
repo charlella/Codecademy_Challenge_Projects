@@ -1,0 +1,117 @@
+html {
+    display: block;
+}
+
+p {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+}
+
+li {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+}
+h1 {
+    font-family: "Cerebri Sans", Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color:#2B0B75;
+}
+
+h2{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 24px;
+    text-align: left;
+    color:#2B0B75;
+    display: block;
+}
+
+div{
+    display: block;
+}
+
+.container {
+    border: 2px solid #E2D6FF;
+    padding: 20px;
+    margin: 10px auto;
+}
+
+.first-color { 
+    display: inline-block;
+    margin: 20px auto;
+    min-height: 100px;
+    background-color: #ff5d9e; 
+    font-size: 16px;
+    text-align: center;
+    width: 32%;
+}
+	
+.second-color { 
+    display: inline-block;
+    margin: 20px auto;
+    min-height: 100px;
+	background-color: #8f71ff; 
+    font-size: 16px;
+    text-align: center;
+    width: 32%;
+}
+
+.third-color { 
+    display: inline-block;
+    margin: 20px auto;
+    min-height: 100px;
+	background-color: #82acff; 
+    font-size: 16px;
+    text-align: center;
+    width: 32%;
+}
+
+.fourth-color { 
+    display: inline-block;
+    margin: 20px auto;
+    min-height: 100px;
+	background-color: #8bffff;
+    font-size: 16px;
+    text-align: center;
+    width: 32%;
+}
+
+.font-container {
+    font-size: 25px;
+    text-decoration: underline;
+    display: inline-block;
+    padding: 20px 40px;
+}
+
+.font-panel {
+
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+.Helvetica {
+    font-family: Helvetica, sans-serif;
+}
+
+.Nunito-Sans {
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.Cerebri-Sans {
+    font-family: "Cerebri Sans", sans-serif;
+}
